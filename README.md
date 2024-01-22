@@ -6,6 +6,17 @@
 ## Upcoming talks
 
 ##  Evolving MRI Enabled Radiotherapy Strategies for Glioblastoma
+### **Amal Saleh (Addis Ababa University)**
+### Jan 28, 2024 
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/.jpg)
+
+Abstract: 
+
+Bio:
+
+
+
+##  Evolving MRI Enabled Radiotherapy Strategies for Glioblastoma
 ### **James Stewart (Sunnybrook)**
 ### Oct 11, 2023 
 ![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20231011_jamesstewart.jpg)
