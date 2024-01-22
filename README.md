@@ -19,7 +19,7 @@ nervous system radiotherapy. James has previously been employed in a research ca
 ### **Anthony Christodoulou (Cedars-Sinai Medical Center)**
 ### July 12, 2023 
 
-[[https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20230712_anthonychristodoulou.jpg]]
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20230712_anthonychristodoulou.jpg)
 
 Abstract: 
 Quantitative MRI provides many benefits over traditional qualitative imaging: reproducible tissue characterization, diagnosis of diffuse disease, the potential for earlier disease detection, and more. The standard approach to quantitative MRI of moving organs (e.g., the heart or abdominal organs) has been to “freeze” motion using a complicated mixture of ECG triggering and repeated breath holds. That approach is difficult, unreliable, and most importantly, unsuitable for patients with irregular heartbeats or trouble breath-holding, preventing the wide clinical adoption of quantitative MR in many areas. This seminar describes a new class of approaches to quantitative imaging, which redesign the MR imaging process around the concept of multiple time dimensions. Rather than trying to avoid motion, these approaches “multitask”, capturing motion alongside multiple simultaneous tissue processes for quantification—each of which is assigned its own time dimension. This allows fast, accurate, and repeatable motion-resolved quantitative imaging, and enables non-ECG, free-breathing quantification of multiple tissue parameters at once.
@@ -34,7 +34,7 @@ Anthony G. Christodoulou, PhD, is an Associate Professor of Biomedical Sciences 
 ### **Charles Millard (University of Oxford)**
 ### June 14, 2023 
 
-[[https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20230614_CharlesMillard.JPG]]
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20230614_CharlesMillard.JPG)
 
 Abstract: 
 MRI's temporal resolution is hindered by an inherently slow data acquisition process. To address this, there has been substantial research attention on methods that aim to reconstruct high quality images from sub-sampled, accelerated acquisitions. In recent years, reconstructing sub-sampled acquisitions with neural networks has emerged as the state of the art. Most such methods assume that a fully sampled, high SNR dataset exists and use fully-supervised training, however, such training data may not be readily available and can be difficult or even infeasible to acquire in practice. In this talk, Charles will discuss self-supervised training methods, where the training data is itself sub-sampled. He will present his recent work which analytically justifies one such method, Self-Supervised Learning via Data Undersampling (SSDU), and proposes modifications and extensions that substantially improve its reconstruction quality and robustness to measurement noise and training hyperparameters.
@@ -47,7 +47,7 @@ Dr. Charles Millard is a post-doctoral researcher working in the magnetic resona
 ### **Adam Farag (Toronto General Hospital)**
 ### May 24, 2023 
 
-[[https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20230524_adamfarag.png]]
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20230524_adamfarag.png)
 
 Abstract: 
 Dynamic Positron Emission Tomography (dPET) is a known approach used with 18F-FDG in characterizing tumors. Nevertheless, the development of new radiopharmaceutical tracers has widened the use of dPET to other clinical applications, such as hypoxia. Indeed, a radiopharmaceutical tracer, such as 18F-fluoroazomycin arabinoside (18F-FAZA) appears to be suitable for studying hypoxia using dPET to distinguish between hypoxic and normal tissues. Here, we explore the first attempt to use this approach in Critical Limb Ischemia (CLI).
@@ -61,7 +61,7 @@ Now as a scientist at UHN, he is collaborating with fellow scientists and doctor
 ### **Chris Macgowan (Sickkids)**
 ### April 12, 2023 
 
-[[https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20230412_chrismacgowan.png]]
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20230412_chrismacgowan.png)
 
 Abstract: 
 Normal fetal development relies on a healthy supply of oxygenated blood. This supply can be disrupted by a variety of conditions including fetal congenital heart disease, placental dysfunction, and fetal anemia. The consequences of inadequate supply range from fetal demise to the injury of critical organs such as the brain, heart and lungs. To better understand fetal cardiovascular physiology in healthy and at-risk pregnancies, we have developed MRI methods to quantify fetal cardiac anatomy, blood flow, blood oxygenation and hematocrit. This information may one-day guide the timing of traditional therapies, such as early delivery, and allow monitoring of emerging therapies that modify the fetal circulation such as maternal oxygen supplementation and surgical correction of fetal cardiovascular anatomy. In this presentation, I will provide a technical overview of fetal cardiovascular MRI and demonstrate application of MRI to animal and human studies of fetal cardiovascular physiology.
@@ -74,7 +74,7 @@ Chris Macgowan obtained his BSc in physics from the University of British Columb
 ### **John Sled (Sickkids) and Chris Heyn (Sunnybrook)**
 ### March 22, 2023 
 
-[[https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20230322_johnsled.jpg]]
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20230322_johnsled.jpg)
 
 Abstract: 
 Heat production and transport is a critical factor in brain metabolism. This presentation will examine the use of temperature sensitive contrast agents for minimally invasive MRI measurement of temperature and heat transport through the blood. Dr. Chris Heyn will provide an introduction to Dr. Sled's talk by providing background of MR thermometry applications.. 
@@ -91,7 +91,7 @@ Toronto. His research is focused on biomedical imaging technologies and applicat
 ### **Julian Cohen-Adad (Polytechnique Montreal)**
 ### December 7, 2022 
 
-[[https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/cohenadad_pic.png]]
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/cohenadad_pic.png)
 
 Abstract:
 Neuroimaging MRI biomarkers include volumetric measures, microstructure imaging such as diffusion-weighted imaging and magnetization transfer, and functional MRI. These biomarkers nicely complement clinical indices and provide objective means to monitor disease evolution in patients. While being very popular in the brain, MRI biomarkers have been slow to translate to the spinal cord because of technical challenges: (i) The need for high resolution and the difficulties in harnessing 7T systems, (ii) Susceptibility artifacts and shimming, (iii) The lack of standardized imaging protocol across vendors and (iv) Unmet needs for analyzing spinal cord MRI data. This talk will be organized around these challenges, by proposing cutting-edge solutions and discussing their pros and cons.
@@ -104,7 +104,7 @@ Dr. Cohen-Adad (https://neuro.polymtl.ca/team/faculty/julien-cohen-adad.html) is
 ### **Ricardo Otazo (Memorial Sloan Kettering Cancer Center)		**
 ### October 26, 2022 
 
-[[https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20221026_ricardootazo.jpg]]
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20221026_ricardootazo.jpg)
 
 Abstract: The combination of a MRI scanner with a linear accelerator (linac), known as MR-linac, enables to use MRI to guide radiotherapy on each fraction of the process. The MR-linac has the potential to adapt the delivery of radiation for tumors affected by motion in real-time. However, the slow speed of conventional MRI only enables to perform real-time MRI in 2D, which limits the performance for motion tracking. This talk presents a new approach for real-time 4D MRI called MR SIGnature MAtching (MRSIGMA), which shifts the acquisition and reconstruction burden to an offline learning step to compute a 4D dictionary of 3D motion states and motion signatures that identify each state in a unique way, and an online signature matching step that is able to perform 3D imaging with a total latency of less than 300 ms (including acquisition and reconstruction). The concept of MRSIGMA, real-time implementation on the Elekta Unity MR-linac system and initial validation on patients with pancreatic cancer will be presented.
 
@@ -112,13 +112,13 @@ Bio: Ricardo Otazo is currently the Director of MRI Physics and Member in Physic
 
 					
 ### September 21 2022	Christine Tardif (McGill)							
-[[https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20221005_christinetardif.jpg]]
+![]https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20221005_christinetardif.jpg)
 
 ## Overview of my 3T research at UHN
 ### **Kamil Uludag (UHN)**
 ### July 13 2022	
 
-[[https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20220713_kamiluludag.jpg]]
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20220713_kamiluludag.jpg)
 
 ***
 ## Tau Propagation and Neuroinflammation Along Gradients of Connectivitv in Alzheimer's Disease
@@ -126,14 +126,14 @@ Bio: Ricardo Otazo is currently the Director of MRI Physics and Member in Physic
 ## Blood Flow is the Dominant Factor Influencing Cardiac Magnetic Resonance T2 During Adenosine Stress 
 ### **Jill Weyers (UofT)**
 ### June 22 2022		
-[[https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/MRgroup2022June22.jpg]]
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/MRgroup2022June22.jpg)
 
 				
 ***
 ## Beyond B0 shimming: Emerging applications of local magnetic field control
 ### **Jason Stockmann (Massachusetts General Hospital)**
 ### May 25, 2022 
-[[https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20220525_jasonstockmann.png]]
+![]https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20220525_jasonstockmann.png)
 
 I will describe a new generation of massively-parallel array coils aimed at improving human MR neuroimaging well as simultaneous imaging and neuromodulation.  An overarching goal is to push the limits of MRI resolution and speed, particularly for functional and diffusion MR imaging, enabling non-invasive studies of brain structure and function at finer spatial scales.  Specifically, I will discuss the synergistic combination of high-channel count radiofrequency (RF) receive arrays with “B0” shim arrays for accelerating image acquisition while reducing image artifacts (particularly at 7 Tesla and beyond).  In addition to new array coils for neuroimaging, we are also developing multi-channel, MR-compatible transcranial magnetic simulation (TMS) coils that allow the electric field to be dynamically steered and reoriented over the cortical surface.  This provides new degrees of freedom for probing the activity of multiple brain circuits either simultaneously or sequentially.  Bringing together two types of array coils, we are integrating a 48-ch TMS array with a 28-ch RF receive array to provide unprecedented image quality for simultaneous TMS-fMRI experiments.   Exploiting these hardware capabilities further, we have begun exploring the use of the current-carrying loops in our TMS coils for MRI applications such as diffusion encoding and B0 shimming. The unifying theme of these hardware subsystems is “local field control” using the many degrees of freedom provided by large arrays to dynamically shape both the B-field and E-field for imaging and neuromodulation, thus extending the utility of MRI and TMS for systems neuroscience.
 
@@ -147,7 +147,7 @@ He is strongly committed to open-source science and reproducible research across
 ### **Paul Weavers (Skope Inc.)**
 ### April 13, 2022 
 
-[[https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20220413_paulweavers.png]]
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20220413_paulweavers.png)
 
 Magnetic Resonance Imaging offers an enormously flexible tool to answer questions about the human body. The MR scanner itself is a complex device, but knowledge of encoding fields and the deviations from nominal scanner behavior can reduce measurement uncertainty. These measurements and system characterizations can then be used to compensate for deviations in the image acquisition, whether from systematic or physiologic origin. Additionally, the measurement of these field dynamics can enable new implementations of image acquisition techniques which were previously subject to unacceptable levels of distortion or signal loss.
 
@@ -187,7 +187,7 @@ The goals of this session will be to review the current safety practices and pro
 ### **Thomas Witzel (Q Bio Inc.)**
 ### October 13, 2021
 
-[[https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/bio_20211013_ThomasWitzel.png]]
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/bio_20211013_ThomasWitzel.png)
 
 ***
 ## "Predicting the Outcome of Stereotactic Radiotherapy in Brain Metastasis using AI and MRI"
@@ -196,14 +196,14 @@ The goals of this session will be to review the current safety practices and pro
 ### **Seyed Ali Jalalifar and Aravinthan Jegatheesan (York University and Sunnybrook Research Institute)**
 ### September 15, 2021
 
-[[https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/bio_20210915_Jalalifar_Jegatheesan.jpg]]
+![]([https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/bio_20210915_Jalalifar_Jegatheesan.jpg)
 
 ***
 ## MR spectroscopy basics
 ### **Wendy Oakden and Jamie Near (Sunnybrook Research Institute)**
 ### August 18, 2021
 
-[[https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/bio_20210818_Oakden_Near.jpg]]
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/bio_20210818_Oakden_Near.jpg)
 
 [video](https://utoronto-my.sharepoint.com/:v:/r/personal/fahsuan_lin_utoronto_ca/Documents/mri_group_seminars_video/20210818_wendy_oakden_jamie_near.mp4?csf=1&web=1&e=wFBB1Y)
 
@@ -212,14 +212,14 @@ The goals of this session will be to review the current safety practices and pro
 ### **Jay Detsky (Sunnybrook Odette Cancer Centre)**
 ### July 21, 2021
 
-[[https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/bio_20210721_JayDetsky.png]]
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/bio_20210721_JayDetsky.png)
 
 ***
 ## Developing SIGNA 7.0T 
 ### **Douglas Kelley (GE)**
 ### July 7, 2021
 
-[[https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/bio_DougKelley.png]]
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/bio_DougKelley.png)
 
 [video](https://utoronto-my.sharepoint.com/:v:/r/personal/fahsuan_lin_utoronto_ca/Documents/mri_group_seminars_video/20210707_douglas_kelley.mp4?csf=1&web=1&e=O5J3YW)
 
@@ -227,14 +227,14 @@ The goals of this session will be to review the current safety practices and pro
 ## Autonomous MRI 
 ### **Juan Santos (with JayKumar Patel and Bonny Biswas) (HeartVista)**
 ### June 23, 2021
-[[https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/info_Heartvista.png]]
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/info_Heartvista.png)
 
 ***
 ## Multi-dimensional diffusion-encoding 
 ### **Guillaume Gilbert (Philips Healthcare)**
 ### May 26, 2021
 
-[[https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/bio_GuillaumeGilbert.png]]
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/bio_GuillaumeGilbert.png)
 
 ***
 ## MAGNETOM Terra: New Opportunities in MR
@@ -243,7 +243,7 @@ The goals of this session will be to review the current safety practices and pro
 
 Two decades of research and development have brought us here, to the point where 7T MR became clinical. This has expanded the application of 7T MR from pure research to translational research and clinical use. In this talk, I will show you examples from these areas that will demonstrate what the title promises.
 
-[[https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/bio_RobinHeidemann.png]]
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/bio_RobinHeidemann.png)
 
 Robin M. Heidemann, Ph.D. is the Director of Ultra-High Field MR Pre-development at Siemens Healthineers. 
 
