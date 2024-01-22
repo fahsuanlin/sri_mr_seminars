@@ -8,8 +8,7 @@
 ##  Evolving MRI Enabled Radiotherapy Strategies for Glioblastoma
 ### **James Stewart (Sunnybrook)**
 ### Oct 11, 2023 
-
-[[https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20231011_jamesstewart.jpg]]
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20231011_jamesstewart.jpg)
 
 Bio:
 James Stewart graduated with a PhD from the Institute of Biomaterials and Biomedical Engineering at the University of Toronto in 2018 where his thesis focused on improving the accuracy and dosimetric heterogeneity of preclinical irradiation studies. Since then, he has worked as a programmer and researcher in the department of Medical Physics at the Sunnybrook Odette Cancer Institute with a focus on MR-guided central
