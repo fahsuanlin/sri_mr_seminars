@@ -31,7 +31,15 @@ Membership
 -	Radiological Society of Ethiopia
 -	Ethiopian Medical Association
 
+##  Parallel RF Transmit (pTx) System Development and Applications
+### **Benson Yang and Maryam Arianpouya (Sunnybrook)**
+### December 13, 2023 
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20231011_jamesstewart.jpg)
+Abstract:
+The use of multiple transmission channels, referred to as parallel radio-frequency transmission (pTx), offers numerous advantages across various applications. These benefits include enhanced B1-field homogeneity, spatially selective excitation, decreased global specific absorption rate (SAR), and minimized artifacts related to implants and implant coupling. In this presentation, I will be focusing on the capabilities of pTx, with a primary emphasis on its safe mode application in the presence of brain implants.
 
+Bio:
+I am a graduate student who joined Simon Graham’s lab in 2020 following the completion of my MSc degree in Medical Physics at Macquarie University in Sydney, Australia. My research centers around Parallel Radiofrequency Transmission (pTx) for ensuring the safety of MRI scans in patients with deep brain stimulation (DBS) implants. Specifically, my project focuses on the application of the pTx approach to suppress localized heating resulting from the coupling between the MR environment and DBS implants, while maintaining adequate spatial homogeneity of the transmission magnetic field.
 
 ##  Evolving MRI Enabled Radiotherapy Strategies for Glioblastoma
 ### **James Stewart (Sunnybrook)**
