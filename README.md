@@ -8,28 +8,14 @@
 ##  AI, a new frontier in CNS TB diagnosis, a pilot project
 ### **Amal Saleh (Addis Ababa University)**
 ### Jan 31, 2024 
-![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/.jpg)
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/MR_group_poster_Jan2024.jpg)
 
 Abstract: 
-CNS tuberculosis is one of the most devastating and severe forms of tuberculosis (TB) accounting for 5-10% of extrapulmonary TB , with high morbidity and mortality in 50% of patients. In resource limited countries in sub-Saharan Africa, the widespread availability of cross sectional imaging can be a challenge. AI improvement in the techniques of machine learning (ML) and deep learning (DL) in neuroradiology has primarily focused on neuro-oncology, stroke imaging and hemorrhage. The question of exploring the role of AI in neuroimaging in low and middle income countries (LMIC) and how well it will fair in the setting of images obtained from our own data set (low field magnets). 
-The study will evaluate the performance of promising ML and DL methods for detecting and characterizing CNS TB lesions. A retrospective cohort study at Tikur Anbessa Specialized Hospital (TASH), using retrospective cohort data previously acquired from PACS. Anonymized images will be by converted from the raw DICOM images to the Neuroimaging Informatics Technology Initiative (NIFTI) and reviewed by two neuroradiologists. Images will be curated for use in development of ML methods including differentiating TB from non-infectious brain lesions.
+CNS tuberculosis is one of the most devastating and severe forms of tuberculosis (TB) accounting for 5-10% of extrapulmonary TB , with high morbidity and mortality in 50% of patients. In resource limited countries in sub-Saharan Africa, the widespread availability of cross sectional imaging can be a challenge. Al improvement in the techniques of machine learning (ML) and deep learning (DL) in neuroradiology has primarily focused on neuro-oncology, stroke imaging and hemorrhage. This talk will focus on the question of exploring the role of Al in neuroimaging in low and middle income countries (MIC) and how well it will fare in the setting of images obtained from the low-field magnets at Tikur Anbessa Specialized Hospital. Specifically, the performance of promising ML and DL methods for detecting and characterizing CNS TB lesions will be discussed.
 
 Bio:
-Current position
--	Dean, School of Medicine, College of Health Sciences, Addis Ababa University
--	President, Council of Medical Schools in Ethiopia
--	Vice President, Ethiopian Medical Association
-
-Previous Positions 
--	Served as the President of the Radiological Society of Ethiopia 
--	Neuroradiology unit head, Department of Radiology
--	Chair of the Department of Radiology
-
-Membership
--	American Society of Pediatric Neuroradiology (ASPNR)
--	Radiological Society of North America
--	Radiological Society of Ethiopia
--	Ethiopian Medical Association
+Dr. Amal Saleh is an Associate Professor of Radiology and a Neuroradiologist at the School of Medicine, College of Health Sciences, Addis Ababa University. She is the Dean of the School of Medicine at Addis Ababa University, the President of the Council of Medical Schools in Ethiopia and the Vice President of the Ethiopian Medical Association.
+She previously served as the President of the Radiological Society of Ethiopia and the Neuroradiology unit head as well as Chair of the Department of Radiology.
 
 ##  Parallel RF Transmit (pTx) System Development and Applications
 ### **Benson Yang and Maryam Arianpouya (Sunnybrook)**
