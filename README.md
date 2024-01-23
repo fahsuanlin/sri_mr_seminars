@@ -35,11 +35,32 @@ Membership
 ### **Benson Yang and Maryam Arianpouya (Sunnybrook)**
 ### December 13, 2023 
 
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/MR_group_seminar_poster_Dec2023.jpg)
+
 Abstract:
 The use of multiple transmission channels, referred to as parallel radio-frequency transmission (pTx), offers numerous advantages across various applications. These benefits include enhanced B1-field homogeneity, spatially selective excitation, decreased global specific absorption rate (SAR), and minimized artifacts related to implants and implant coupling. In this presentation, I will be focusing on the capabilities of pTx, with a primary emphasis on its safe mode application in the presence of brain implants.
 
 Bio:
 I am a graduate student who joined Simon Graham’s lab in 2020 following the completion of my MSc degree in Medical Physics at Macquarie University in Sydney, Australia. My research centers around Parallel Radiofrequency Transmission (pTx) for ensuring the safety of MRI scans in patients with deep brain stimulation (DBS) implants. Specifically, my project focuses on the application of the pTx approach to suppress localized heating resulting from the coupling between the MR environment and DBS implants, while maintaining adequate spatial homogeneity of the transmission magnetic field.
+
+##  Saturation Transfer MRI: Pre-Clinical Prostate Cancer Models
+### **Wilfred Lam (Sunnybrook)**
+### November 15, 2023 
+
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/MR_group_seminar_poster_Nov2023.jpg)
+
+Abstract: A brief overview of saturation transfer MRI including magnetization transfer
+(MT) and chemical exchange saturation transfer (CEST) will be presented, along with
+results from pre-clinical studies that use MT and CEST to assess the aggressiveness and
+prognosis of solid tumours. These studies involve using saturation transfer MRI to
+investigate the microstructural and metabolic properties of prostate tumors, validated
+with histopathology.
+
+Bio: Wilfred is a research associate at Sunnybrook Research Institute. He obtained his
+Phil at the University of Oxford in white matter modelling using diffusion MRI, and also
+worked in hyperpolarized helium-3 and carbon-13 imaging. His current research includes
+using chemical exchange saturation transfer and magnetization transfer to investigate
+human and pre-clinical tumours.
 
 ##  Evolving MRI Enabled Radiotherapy Strategies for Glioblastoma
 ### **James Stewart (Sunnybrook)**
