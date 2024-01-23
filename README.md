@@ -34,7 +34,7 @@ Membership
 ##  Parallel RF Transmit (pTx) System Development and Applications
 ### **Benson Yang and Maryam Arianpouya (Sunnybrook)**
 ### December 13, 2023 
-![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20231011_jamesstewart.jpg)
+
 Abstract:
 The use of multiple transmission channels, referred to as parallel radio-frequency transmission (pTx), offers numerous advantages across various applications. These benefits include enhanced B1-field homogeneity, spatially selective excitation, decreased global specific absorption rate (SAR), and minimized artifacts related to implants and implant coupling. In this presentation, I will be focusing on the capabilities of pTx, with a primary emphasis on its safe mode application in the presence of brain implants.
 
