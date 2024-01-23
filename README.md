@@ -7,7 +7,7 @@
 
 ##  AI, a new frontier in CNS TB diagnosis, a pilot project
 ### **Amal Saleh (Addis Ababa University)**
-### Jan 28, 2024 
+### Jan 31, 2024 
 ![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/.jpg)
 
 Abstract: 
