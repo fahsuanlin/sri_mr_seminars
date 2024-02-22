@@ -8,7 +8,7 @@
 ##  Advanced neuroimaging at 3 T: practical considerations for clinical research
 ### **Sriranga Kashyap (Toronto Western Hospital)**
 ### Feb 28, 2024 
-![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/.jpg)
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/MR_group_poster_Feb2024.png)
 
 Abstract: The presentation will cover several topics including development of optimised multi-modal neuroimaging protocols, the conundrum of head coil selection and its impact on data acquisition, high-resolution ASL, and advances in MRI of DBS patients. There might be a spattering of 7 T research.
 Bio: I have a multidisciplinary background, primarily in biomedical engineering, neurophysiology, cognitive & clinical neurosciences. I received a PhD in 2019 for my thesis on ‘Laminar fMRI at ultra-high fields’ at Maastricht University, The Netherlands, followed by a post-doc at Maastricht University on advanced fMRI methods using 7 and 9.4 T (human scanners). Since 2021, I am a senior post-doc in the BRAIN-TO Lab at UHN led by Dr. Kamil Uludag and I work on developing novel MRI acquisition, processing and analysis methods for neuroscience applications.
