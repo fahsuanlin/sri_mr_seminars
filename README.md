@@ -5,6 +5,14 @@
 
 ## Upcoming talks
 
+##  TBD
+### **Ian Connell (University Health Network)**
+### April 17, 2024 
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/.png)
+
+Abstract: 
+Bio: 
+
 ##  Advanced neuroimaging at 3 T: practical considerations for clinical research
 ### **Sriranga Kashyap (Toronto Western Hospital)**
 ### Feb 28, 2024 
