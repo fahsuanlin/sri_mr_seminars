@@ -5,13 +5,19 @@
 
 ## Upcoming talks
 
-##  TBD
+##  Is the future of MRI at lower fields?
 ### **Ian Connell (University Health Network)**
 ### April 17, 2024 
-![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/.png)
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20240417_ianconnell.png)
 
 Abstract: 
+Over the past four decades, MRI engineering has been characterized by the pursuit of higher magnetic field strengths, measured in Tesla (T), to achieve improved signal-to-noise ratios (SNR) and greater spatial resolution. However, the push for higher field strengths significantly increases system complexity, necessitating the use of large, expensive superconducting magnets that require extensive liquid helium cooling and substantial infrastructure investment. Additionally, the higher field strengths have introduced new imaging and patient safety concerns.
+	In recent years, there has been a resurgence of interest in mid-to-low field strength MRI systems (<1T). Advances in hardware technology now allow these lower field systems to produce image quality that rivals that of high-field MRIs, while mitigating issues related to cost, infrastructure, and complexity. This talk will discuss a notable instance of leveraging this trend: Synaptive Medical's introduction of Canada's first FDA-approved high-performance 0.5T MRI scanner in 2019. This scanner delivers image quality comparable to the traditional 1.5T systems, which are the standard-of-care for routine imaging, but with the benefits of a helium-free magnet, enhanced compactness, and adaptability to a variety of settings. Moreover, the 0.5T MRI offers significant safety advantages, particularly for imaging patients with implanted medical devices—a concern for as many as 58% of inpatients—thereby simplifying clinical workflows and MRI safety evaluations.
+ 	The talk will explore the speaker’s experience with development of the early 0.5T systems and the potential of their integration into clinical practice, illustrated by examples from UHN Toronto Western Hospital and ongoing research at UHN Toronto General.
+
 Bio: 
+Dr. Ian Connell serves as the Director of Medical Engineering at the University Health Network (UHN), Assistant Professor at the University of Toronto, and Director of Engineering at UHN's Centre for Digital Therapeutics. He is also a Scientist with the KITE Research Institute and CRANIA, a collaborative group of neurosurgeons, radiologists, and scientists committed to enhancing imaging and image-guided interventions for neurological diseases. Dr. Connell has amassed over a decade of experience as an engineer-scientist specializing in the development of MRI hardware and software within the private sector, with a particular emphasis on mid-field systems.
+ 	Previously, as a Senior Scientist at Synaptive Medical, Dr. Connell led the design of numerous hardware subsystems, including gradients, shim coils, RF coils, amplifiers, and associated electronics. His contributions also encompassed passive magnet shimming, the design and approval of custom electromagnetic simulation software, and general MRI electronics. Furthermore, he played a lead role in the successful FDA submission in 2019 for the Synaptive 0.5T MRI. Currently, at UHN, Dr. Connell oversees a wide array of biomedical engineering responsibilities related to imaging, surgery, and hospital operations. In addition to his operational roles, he also acts as a Principal Investigator, leading substantial research groups totalling of over 50 research staff and trainees.
 
 ##  Advanced neuroimaging at 3 T: practical considerations for clinical research
 ### **Sriranga Kashyap (Toronto Western Hospital)**
