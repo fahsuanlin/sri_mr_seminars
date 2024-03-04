@@ -19,6 +19,15 @@ Bio:
 Dr. Ian Connell serves as the Director of Medical Engineering at the University Health Network (UHN), Assistant Professor at the University of Toronto, and Director of Engineering at UHN's Centre for Digital Therapeutics. He is also a Scientist with the KITE Research Institute and CRANIA, a collaborative group of neurosurgeons, radiologists, and scientists committed to enhancing imaging and image-guided interventions for neurological diseases. Dr. Connell has amassed over a decade of experience as an engineer-scientist specializing in the development of MRI hardware and software within the private sector, with a particular emphasis on mid-field systems.
  	Previously, as a Senior Scientist at Synaptive Medical, Dr. Connell led the design of numerous hardware subsystems, including gradients, shim coils, RF coils, amplifiers, and associated electronics. His contributions also encompassed passive magnet shimming, the design and approval of custom electromagnetic simulation software, and general MRI electronics. Furthermore, he played a lead role in the successful FDA submission in 2019 for the Synaptive 0.5T MRI. Currently, at UHN, Dr. Connell oversees a wide array of biomedical engineering responsibilities related to imaging, surgery, and hospital operations. In addition to his operational roles, he also acts as a Principal Investigator, leading substantial research groups totalling of over 50 research staff and trainees.
 
+##  TBD
+### ** William Clarke  (Oxford University)**
+### March 27, 2024 
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/.png)
+
+Abstract: 
+
+Bio: 
+
 ##  Advanced neuroimaging at 3 T: practical considerations for clinical research
 ### **Sriranga Kashyap (Toronto Western Hospital)**
 ### Feb 28, 2024 
