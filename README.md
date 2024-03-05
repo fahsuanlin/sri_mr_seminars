@@ -9,6 +9,7 @@
 ### **Ian Connell (University Health Network)**
 ### April 17, 2024 
 ![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/20240417_ianconnell.png)
+![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/MR_group_poster_Apr2024.png)
 
 Abstract: 
 Over the past four decades, MRI engineering has been characterized by the pursuit of higher magnetic field strengths, measured in Tesla (T), to achieve improved signal-to-noise ratios (SNR) and greater spatial resolution. However, the push for higher field strengths significantly increases system complexity, necessitating the use of large, expensive superconducting magnets that require extensive liquid helium cooling and substantial infrastructure investment. Additionally, the higher field strengths have introduced new imaging and patient safety concerns.
