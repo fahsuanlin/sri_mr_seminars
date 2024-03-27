@@ -20,14 +20,14 @@ Bio:
 Dr. Ian Connell serves as the Director of Medical Engineering at the University Health Network (UHN), Assistant Professor at the University of Toronto, and Director of Engineering at UHN's Centre for Digital Therapeutics. He is also a Scientist with the KITE Research Institute and CRANIA, a collaborative group of neurosurgeons, radiologists, and scientists committed to enhancing imaging and image-guided interventions for neurological diseases. Dr. Connell has amassed over a decade of experience as an engineer-scientist specializing in the development of MRI hardware and software within the private sector, with a particular emphasis on mid-field systems.
  	Previously, as a Senior Scientist at Synaptive Medical, Dr. Connell led the design of numerous hardware subsystems, including gradients, shim coils, RF coils, amplifiers, and associated electronics. His contributions also encompassed passive magnet shimming, the design and approval of custom electromagnetic simulation software, and general MRI electronics. Furthermore, he played a lead role in the successful FDA submission in 2019 for the Synaptive 0.5T MRI. Currently, at UHN, Dr. Connell oversees a wide array of biomedical engineering responsibilities related to imaging, surgery, and hospital operations. In addition to his operational roles, he also acts as a Principal Investigator, leading substantial research groups totalling of over 50 research staff and trainees.
 
-##  TBD
+##  Universal Dynamic Fitting of Magnetic Resonance Spectroscopy and Spectroscopic Imaging
 ### ** William Clarke  (Oxford University)**
 ### March 27, 2024 
 ![](https://github.com/fahsuanlin/sri_mr_seminars/blob/main/images/.png)
 
-Abstract: 
+Abstract: Scientists using MR spectroscopy are rapidly coming up with new contrast mechanisms, most of which are dependent on combining multiple “dynamic” measurements. Endogenous and exogenous metabolite traces are being followed across time, the spectrum is being edited in more combinations to reveal small metabolites, and diffusion MRS is revealing cell-type-specific microstructure. However, tools to analyse this new data are missing, and so is spatial resolution, with dynamic MRS often limited to anatomically non-specific 2x2x2 cm blocks of tissue. This talk will cover efforts to address both, exploring new open-source MRS analysis tools, and then time-resolved MRSI approaches.
 
-Bio: 
+Bio: Will Clarke is the MR Spectroscopist at the Wellcome Centre for Integrative Neuroimaging (aka FMRIB), at the University of Oxford. Will is best known for being the developer of FSL-MRS, and a collection of open-science tools for MRS: spec2nii, NIfTI-MRS and the FSLeyes plugin. Recently awarded a Wellcome Career Development Award, he’s now establishing his own group at Oxford developing new functional MRSI methods – working across acquisition, reconstruction, and analysis. Will trained as a chemist and started his MR journey in cardiovascular 31P MRS. He then moved to WIN to work on neuroimaging at 7 T, before finally combining the two to work on 1H MRS of the brain.
 
 ##  Advanced neuroimaging at 3 T: practical considerations for clinical research
 ### **Sriranga Kashyap (Toronto Western Hospital)**
